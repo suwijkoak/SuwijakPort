@@ -115,7 +115,7 @@ export const info = {
         },
         {
             title: "Jamming",
-            live: "#",
+            live: "./portfolio",
             source: "https://github.com/suwijkoak/JammingProject",
             image: mock3
         }
