@@ -23,44 +23,44 @@ of what each of the values mean.
  */
 
 export const info = {
-    firstName: "John",
-    lastName: "Smith",
-    initials: "js", // the example uses first and last, but feel free to use three or more if you like.
+    firstName: "Suwijak",
+    lastName: "Lohanan",
+    initials: "OAK", // the example uses first and last, but feel free to use three or more if you like.
     position: "a Full Stack Developer",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[0],
     miniBio: [ // these are just some "tidbits" about yourself. You can look at mine https://paytonjewell.github.io/#/ for an example if you'd like
         {
-            emoji: '☕',
-            text: 'fueled by coffee'
+            emoji: '🏫',
+            text: 'Graduated from RMUTL'
         },
         {
             emoji: '🌎',
-            text: 'based in the US'
+            text: 'based in the Thailand'
         },
         {
             emoji: "💼",
-            text: "Systems Engineer at Google"
+            text: "Freelancer Developer"
         },
         {
             emoji: "📧",
-            text: "johnsmith@gmail.com"
+            text: "suwijakoak@gmail.com"
         }
     ],
     socials: [
         {
-            link: "https://facebook.com",
+            link: "https://www.facebook.com/OakNeverSurrender/",
             icon: 'fa fa-facebook',
             label: 'facebook'
         },
         {
-            link: "https://instagram.com",
+            link: "https://www.instagram.com/orgaaaaar/",
             icon: 'fa fa-instagram',
             label: 'instagram'
         },
         {
-            link: "https://github.com",
+            link: "https://github.com/suwijkoak",
             icon: "fa fa-github",
             label: 'github'
         },
@@ -68,21 +68,16 @@ export const info = {
             link: "https://linkedin.com",
             icon: "fa fa-linkedin",
             label: 'linkedin'
-        },
-        {
-            link: "https://twitter.com",
-            icon: "fa fa-twitter",
-            label: 'twitter'
         }
 // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm John. I'm a systems engineer for Google. I studied CompSci at Harvard, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "Hello! I'm Oak. I'm a Software Developer. I studied CIS at RMUTL, I am fresh graduated, and I have passion to improve my skill and do my best for all tasks! I will not let you disappointed!",
     skills:
         {
-            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
-            exposedTo: ['nodejs', 'python', 'adobe illustrator']
+            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'SQL/NoSQL'],
+            exposedTo: ['nodejs', 'python', 'UML Diagram','tailwind-css','C++']
         }
     ,
     hobbies: [
